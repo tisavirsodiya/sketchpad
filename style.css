@@ -2,3 +2,10 @@ tr td
 {
  padding:30px;
 }
+.td:hover
+{
+    background-color: #80808075;
+    text-align: center;
+    border: 2px solid black;
+    
+}
